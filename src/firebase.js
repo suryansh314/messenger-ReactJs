@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBWLkF_h78cC1f3xBzOe8NcLROYSxW6ykw",
+  apiKey: "YOUR API KEY HERE",
   authDomain: "whatsapp-rc.firebaseapp.com",
   databaseURL: "https://whatsapp-rc.firebaseio.com",
   projectId: "whatsapp-rc",
