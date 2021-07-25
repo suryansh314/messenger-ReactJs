@@ -1,4 +1,4 @@
-This web app is highly scalable & it uses realtime firebase database, it also uses Google Authentication and Context API for state management.
+A highly scalable react web app which uses realtime firebase database and Google Authentication with Context API for state management.
 
 Live run at: https://whatsapp-rc.web.app 
 
